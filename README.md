@@ -1,5 +1,4 @@
 # Real-Time E-Commerce Analytics Pipeline
-## The "Amazon-Ready" Data Engineering Project
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-85%25-green)
@@ -8,7 +7,7 @@
 
 > **A production-grade real-time data pipeline that processes 10,000+ transactions per minute with fraud detection, customer analytics, and predictive recommendations.**
 
-> 🐳 **Fully Dockerized!** This project runs entirely in Docker containers, eliminating all Windows/Spark compatibility issues. See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for the complete journey from native Windows setup to Docker.
+ **Fully Dockerized!** This project runs entirely in Docker containers, eliminating all Windows/Spark compatibility issues. See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for the complete journey from native Windows setup to Docker.
 
 ---
 
@@ -369,8 +368,6 @@ MIT License - Feel free to use this project as inspiration for your own work.
 
 Carter Tierney
 
-- LinkedIn: [linkedin.com/in]
-- GitHub: [@ctsc]
 
 ---
 
